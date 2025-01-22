@@ -1,1 +1,21 @@
+Este projeto de Banco de Dados em SQL, tem por objetivo demonstrar os conhecimentos aprendidos no momento da criação e exercícios propostos nos vídeos vistos para realizar o mesmo.
 
+Este Banco de Dados foi criado com estudos do canal do Youtube Bosón Treinamentos, com a orientação do professor Fábio dos Reis
+Abaixo, segue a lista do que foi aprendido no curso/playlist do treinamento:
+
+- Criação do Banco de Dados e Tabelas
+- Gerenciamento das Tabelas
+- Alias
+- Diagrama Lógico e Conceitual
+- Consultas Simples
+- Funções de Agregação, Like, Data e Hora, UDF
+- Inserção de Registros
+- Manipulação de Strings
+- Operadores lógicos e Union
+- Order By e Select TOP
+- Triggers
+- Joins
+- Stored Procedures
+- Views e SubConsultas
+- Where e Delete
+- Ìndices
