@@ -19,3 +19,9 @@ Abaixo, segue a lista do que foi aprendido no curso/playlist do treinamento:
 - Views e SubConsultas
 - Where e Delete
 - Ìndices
+
+Para importar o Banco de Dados, segue passo a passo
+
+1. Abra o MySQL Workbench.
+2. Vá para Server > Data Import.
+3. Selecione o arquivo `.sql` e importe-o.
